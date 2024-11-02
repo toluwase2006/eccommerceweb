@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": "cb24",
+      "name": "toluwase",
+      "username": "tolu07",
+      "email": "ogundaretoluwase@gmail.com",
+      "password": "2006"
+    },
+    {
+      "id": "f0bc",
+      "name": "tobiloba",
+      "username": "tobi07",
+      "email": "08067600639te@gmail.com",
+      "password": "2007"
+    },
+    {
+      "id": "19fc",
+      "name": "toluwase",
+      "username": "tolu07",
+      "email": "ogundaretoluwase@gmail.com",
+      "password": "2008"
+    },
+    {
+      "id": "b554",
+      "name": "Marvellous",
+      "username": "Kennedy",
+      "email": "kennedymarvellous001@gmail.com",
+      "password": "ChIDERA001?.1"
+    },
+    {
+      "id": "04a5",
+      "name": "tobiloba",
+      "username": "tobi07",
+      "email": "ogundaretoluwase@gmail.com",
+      "password": "2005"
+    },
+    {
+      "id": "4099",
+      "name": "tobiloba",
+      "username": "tobbysmart",
+      "email": "08067600639te@gmail.com",
+      "password": "tobi1235"
+    },
+    {
+      "id": "e57c",
+      "name": "victor",
+      "username": "vic06",
+      "email": "08067600639te@gmail.com",
+      "password": "2007"
+    }
+  ]
+}
