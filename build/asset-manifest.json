@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.92ae7ecd.css",
+    "main.js": "/static/js/main.1e4bb95f.js",
+    "static/media/how-many-pairs-of-shoes-is-too-many-v0-otuuwwtist1c1.webp": "/static/media/how-many-pairs-of-shoes-is-too-many-v0-otuuwwtist1c1.743a79814b77a7caf79e.webp",
+    "static/media/istockphoto-643881848-1024x1024.jpg": "/static/media/istockphoto-643881848-1024x1024.d77ee0a6d2d07d9eb1d2.jpg",
+    "static/media/suitcases_1600x.webp": "/static/media/suitcases_1600x.dcbd13fb531cb7f34d3c.webp",
+    "static/media/loading.mp4": "/static/media/loading.98c21a489e57500fab27.mp4",
+    "static/media/download.webp": "/static/media/download.07a1f6d39e5387ad12d0.webp",
+    "index.html": "/index.html",
+    "main.92ae7ecd.css.map": "/static/css/main.92ae7ecd.css.map",
+    "main.1e4bb95f.js.map": "/static/js/main.1e4bb95f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92ae7ecd.css",
+    "static/js/main.1e4bb95f.js"
+  ]
+}
